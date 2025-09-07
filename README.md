@@ -1,2 +1,2 @@
 # domesday-duplicator-info-collation
-Project to provide a single reference point to find all important source material to research, purchase, and use the Domesday Duplicstor RF capture device 
+Project that collates all important source material to allow easier research and use of the Domesday Duplicator RF capture device 
